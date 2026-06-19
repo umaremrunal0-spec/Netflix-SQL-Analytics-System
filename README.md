@@ -1,1 +1,0 @@
-# Netflix-SQL-Analytics-System
